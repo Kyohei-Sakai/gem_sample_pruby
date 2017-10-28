@@ -4,6 +4,24 @@ Welcome to your new gem! In this directory, you'll find the files you need to be
 
 TODO: Delete this and the text above, and describe your gem
 
+## Release
+
+I cannot release this gem, because the sample gem's name has already been used.
+
+```
+$ rake release
+gem_sample_pruby 0.1.0 built to pkg/gem_sample_pruby-0.1.0.gem.
+Tagged v0.1.0.
+Pushed git commits and tags.
+rake aborted!
+Pushing gem to https://rubygems.org...
+You do not have permission to push to this gem. Ask an owner to add you with: gem owner gem_sample_pruby --add nico_f00tb@yahoo.co.jp
+```
+
+https://rubygems.org/gems/gem_sample_pruby
+
+>Are you studing 'Perfect Ruby' which published by GijyutuHyoronSha ? the sample gem's name has already been used by me. Please use another gem name.
+
 ## Installation
 
 Add this line to your application's Gemfile:
